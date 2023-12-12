@@ -76,21 +76,21 @@ public class HelloApplication extends Application {
         tableView.getItems().add(
                 new Mahasiswa(2, "134", "Deer"));
         tableView.getItems().add(
-                new Mahasiswa(3, "164", "Door"));
+                new Mahasiswa(3, "164", "Diir"));
         tableView.getItems().add(
-                new Mahasiswa(4, "164", "Door"));
+                new Mahasiswa(4, "145", "Dior"));
         tableView.getItems().add(
-                new Mahasiswa(5, "164", "Door"));
+                new Mahasiswa(5, "178", "Daar"));
         tableView.getItems().add(
-                new Mahasiswa(6, "164", "Door"));
+                new Mahasiswa(6, "162", "Deor"));
         tableView.getItems().add(
-                new Mahasiswa(7, "164", "Door"));
+                new Mahasiswa(7, "141", "Doir"));
         tableView.getItems().add(
-                new Mahasiswa(8, "164", "Door"));
+                new Mahasiswa(8, "183", "Deor"));
         tableView.getItems().add(
-                new Mahasiswa(9, "164", "Door"));
+                new Mahasiswa(9, "156", "Dair"));
         tableView.getItems().add(
-                new Mahasiswa(10, "164", "Door"));
+                new Mahasiswa(10, "100", "Deir"));
 
         VBox vbox = new VBox(tableView);
 
